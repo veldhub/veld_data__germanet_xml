@@ -1,12 +1,9 @@
-# ![veld data](https://raw.githubusercontent.com/veldhub/.github/refs/heads/main/images/symbol_V_letter.png) veld_data__REPLACE
+# ![veld data](https://raw.githubusercontent.com/veldhub/.github/refs/heads/main/images/symbol_V_letter.png) veld_data__germanet_xml
 
-This repo contains [data velds](https://zenodo.org/records/13322913) encapsulating REPLACE
+This repo contains [data velds](https://zenodo.org/records/13322913) encapsulating GermaNet XML
+files.
 
-## data velds
+Open the respective veld yaml file for more information.
 
-The following data velds were persited. Open the respective veld yaml file for more information.
-
-**[./data/veldREPLACE.yaml](./data/veldREPLACE.yaml)** 
-
-REPLACE
+**[./veld.yaml](./veld.yaml)** 
 
