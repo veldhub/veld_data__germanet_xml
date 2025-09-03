@@ -1,9 +1,9 @@
 x-veld:
   data:
-    description:
-    topic:
-    file_type:
-    content:
-    path:
-    additional:
+    description: "germanet data from 2015"
+    topic: "NLP"
+    file_type: "xml"
+    content: 
+      - "synsets"
+      - "semantic categorizations of lemmas"
 
